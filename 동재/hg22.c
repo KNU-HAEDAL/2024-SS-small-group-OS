@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<malloc.h> 
+
 char* toupper(char*);
 char* tolower(char*);
 int main(void){

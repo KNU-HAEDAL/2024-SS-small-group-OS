@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h> 
-
 size_t my_strlen1(char arr[]);
 size_t my_strlen2(char arr[]);
 int my_strcmp(char arr1[],char arr2[]);
