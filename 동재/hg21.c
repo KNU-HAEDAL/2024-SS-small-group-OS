@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<malloc.h>
+#include<malloc.h> 
 
 char* my_strcpy(char*dest,char*scr);
 char* my_strcat(char*dest,char*scr);
